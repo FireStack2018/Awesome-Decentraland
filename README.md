@@ -6,7 +6,7 @@ Decentraland是一个在以太坊区块链上运行的VR虚拟现实平台。用
 
 ## 资料 Resources
 
-- **Newsletter**
+- **最新消息 Newsletter**
 
   [Official Website](https://decentraland.org/)
 
@@ -16,7 +16,7 @@ Decentraland是一个在以太坊区块链上运行的VR虚拟现实平台。用
 
   
 
-- **Development**
+- **开发 Development**
 
   [Whitepaper_EN](https://decentraland.org/whitepaper.pdf)
 
